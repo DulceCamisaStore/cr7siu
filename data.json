@@ -1,0 +1,202 @@
+[
+  {
+    "nombre":"Stephen Curry",
+    "equipo":"Golden State Warriors",
+    "media":98,
+    "rareza":"legendaria",
+    "imagen":"imagenes/curri.jpg",
+    "ataque":99,
+    "defensa":86,
+    "triple":99
+  },
+  {
+    "nombre":"LeBron James",
+    "equipo":"Los Angeles Lakers",
+    "media":97,
+    "rareza":"legendaria",
+    "imagen":"imagenes/lebron james.jpg",
+    "ataque":98,
+    "defensa":92,
+    "triple":85
+  },
+  {
+    "nombre":"Kevin Durant",
+    "equipo":"Phoenix Suns",
+    "media":96,
+    "rareza":"epica",
+    "imagen":"imagenes/kevin.jpg",
+    "ataque":98,
+    "defensa":88,
+    "triple":93
+  },
+  {
+    "nombre":"Nikola Jokic",
+    "equipo":"Denver Nuggets",
+    "media":97,
+    "rareza":"legendaria",
+    "imagen":"imagenes/nikola.jpg",
+    "ataque":97,
+    "defensa":90,
+    "triple":88
+  },
+  {
+    "nombre":"Luka Doncic",
+    "equipo":"Dallas Mavericks",
+    "media":97,
+    "rareza":"legendaria",
+    "imagen":"imagenes/luka.jpg",
+    "ataque":98,
+    "defensa":84,
+    "triple":91
+  },
+  {
+    "nombre":"Giannis Antetokounmpo",
+    "equipo":"Milwaukee Bucks",
+    "media":96,
+    "rareza":"legendaria",
+    "imagen":"imagenes/mamada.jpg",
+    "ataque":96,
+    "defensa":97,
+    "triple":75
+  },
+  {
+    "nombre":"Jayson Tatum",
+    "equipo":"Boston Celtics",
+    "media":95,
+    "rareza":"epica",
+    "imagen":"imagenes/JASON.jpg",
+    "ataque":96,
+    "defensa":90,
+    "triple":89
+  },
+  {
+    "nombre":"Ja Morant",
+    "equipo":"Memphis Grizzlies",
+    "media":92,
+    "rareza":"rara",
+    "imagen":"imagenes/morant.jpg",
+    "ataque":94,
+    "defensa":80,
+    "triple":82
+  },
+  {
+    "nombre":"Kyrie Irving",
+    "equipo":"Dallas Mavericks",
+    "media":94,
+    "rareza":"epica",
+    "imagen":"imagenes/KYRIE.jpg",
+    "ataque":96,
+    "defensa":83,
+    "triple":92
+  },
+  {
+    "nombre":"Damian Lillard",
+    "equipo":"Milwaukee Bucks",
+    "media":93,
+    "rareza":"epica",
+    "imagen":"imagenes/dani.jpg",
+    "ataque":95,
+    "defensa":82,
+    "triple":97
+  },
+  {
+    "nombre":"Joel Embiid",
+    "equipo":"Philadelphia 76ers",
+    "media":95,
+    "rareza":"epica",
+    "imagen":"imagenes/JOEL.jpg",
+    "ataque":96,
+    "defensa":94,
+    "triple":85
+  },
+  {
+    "nombre":"Anthony Edwards",
+    "equipo":"Minnesota Timberwolves",
+    "media":94,
+    "rareza":"epica",
+    "imagen":"imagenes/ejej.jpg",
+    "ataque":95,
+    "defensa":87,
+    "triple":86
+  },
+  {
+    "nombre":"Devin Booker",
+    "equipo":"Phoenix Suns",
+    "media":93,
+    "rareza":"rara",
+    "imagen":"imagenes/devin bookeck.jpg",
+    "ataque":94,
+    "defensa":82,
+    "triple":91
+  },
+  {
+    "nombre":"Jimmy Butler",
+    "equipo":"Miami Heat",
+    "media":92,
+    "rareza":"rara",
+    "imagen":"imagenes/jimi.jpg",
+    "ataque":90,
+    "defensa":95,
+    "triple":80
+  },
+  {
+    "nombre":"Kawhi Leonard",
+    "equipo":"LA Clippers",
+    "media":94,
+    "rareza":"epica",
+    "imagen":"imagenes/kawh.jpg",
+    "ataque":93,
+    "defensa":98,
+    "triple":86
+  },
+  {
+    "nombre":"Victor Wembanyama",
+    "equipo":"San Antonio Spurs",
+    "media":91,
+    "rareza":"especial",
+    "imagen":"imagenes/victor.jpg",
+    "ataque":90,
+    "defensa":97,
+    "triple":82
+  },
+  {
+    "nombre":"Shai Gilgeous-Alexander",
+    "equipo":"OKC Thunder",
+    "media":95,
+    "rareza":"epica",
+    "imagen":"imagenes/shai.jpg",
+    "ataque":96,
+    "defensa":91,
+    "triple":88
+  },
+  {
+    "nombre":"Trae Young",
+    "equipo":"Atlanta Hawks",
+    "media":91,
+    "rareza":"rara",
+    "imagen":"imagenes/rae.jpg",
+    "ataque":93,
+    "defensa":75,
+    "triple":94
+  },
+  {
+    "nombre":"Anthony Davis",
+    "equipo":"Los Angeles Lakers",
+    "media":94,
+    "rareza":"epica",
+    "imagen":"imagenes/davis.jpg",
+    "ataque":92,
+    "defensa":98,
+    "triple":80
+  },
+  {
+    "nombre":"Carmelo Anthony",
+    "equipo":"NBA Legends",
+    "media":95,
+    "rareza":"legendaria",
+    "imagen":"imagenes/divisjr.jpg",
+    "ataque":97,
+    "defensa":85,
+    "triple":90
+  }
+]
